@@ -1,6 +1,12 @@
 # Desafio - Classificador de Nível de Herói
 
-◽ Exercício do curso de Lógica de Programação
+Exercício para o módulo de Lógica de Programação do Curso Potência Tech iFood - Programação do Zero na plataforma de cursos de Tecnologia [DIO](https://www.dio.me/) 
+
+<div align="center">
+
+<img src="https://hermes.dio.me/tracks/9388e8d8-00d5-4007-a7c9-357324fe73fa.png" width="200" height="200">
+
+</div>
 
 # ✔️ Projeto
 
@@ -24,10 +30,10 @@ Se XP for entre 8.001 e 9.000 = Ascendente
 Se XP for entre 9.001 e 10.000= Imortal
 Se XP for maior ou igual a 10.001 = Radiante
 
-## Saída
-
+Saída:
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
-## ✔️ Técnicas e tecnologias utilizadas:
+
+## ✔️ Tecnologias utilizadas:
 
 - ``Javascript``
